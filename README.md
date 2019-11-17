@@ -1,3 +1,3 @@
 # Employee CRUD
 
-aplicacion simple para maejar empleados usando el stack MEAN
+Simple application to manage employees using the MEAN stack
